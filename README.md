@@ -1,6 +1,6 @@
-# Управление интернет-магазином 1С UIM для 1С Управление торговлей 11.1
+# Online store management 1C UIM for 1C Trade management 11.1
 
-Текущая версия - 1.3.0.2
-- выгрузка заказа с использованием купона на скидку 
+Current version - 1.3.0.2
+- unloading an order using a discount coupon
 
-Последний тест на ocStore 2.1.0.2.1 и OPencart 2.1.0.2.1
+Latest test on ocStore 2.1.0.2.1 and OPencart 2.1.0.2.1 
